@@ -1,12 +1,10 @@
-# Web3-Resources
 
-# <a href="https://github.com/MLSC-BSOITR/Web3-Resources" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.weforum.org%2Fagenda%2F2022%2F02%2Fweb3-transform-the-internet%2F&psig=AOvVaw28daEwZ_G5gfsD41xHJgPs&ust=1665511481243000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCyifaf1voCFQAAAAAdAAAAABAD" width="32" height="32" /></a> 
 # Free Web3 Resources MLSC BSIOTR 🚀
 Credit repo : https://github.com/FrancescoXX/free-Web3-resources
 
 This is a list of Free Web3 Resources links to learn Blockchain development.
 
-![WEB3 FREE RESOURCES](https://user-images.githubusercontent.com/18360871/162364470-56cc28da-d50c-426f-82a4-7ea06234d4bf.png)
+![WEB3 FREE RESOURCES](https://assets.weforum.org/article/image/responsive_big_webp_0R7BdnZl_gyeWOKsudAVmI7gNR673V4BIxQM6gwT-FY.webp)
 
 ## Getting Involved
 
